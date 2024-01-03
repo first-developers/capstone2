@@ -1,0 +1,39 @@
+*{
+font-family: 'PT Serif', serif;
+/* background-color:  rgb(194, 194, 243); */
+
+}
+
+#hero{
+    background-color: rgb(194, 194, 243);
+}
+#hero2{
+    background-color:#c2c2f3 ;
+}
+.skills{
+    height: 100vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    gap: 30px;
+    color: rgb(38, 38, 66);
+    background-color:  rgb(194, 194, 243);
+    
+    margin: 0;
+    padding: 0;
+}
+article{
+  
+    height: 400px;
+    width: 280px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5%;
+}
+article p{
+    padding-top: 40px;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+}
